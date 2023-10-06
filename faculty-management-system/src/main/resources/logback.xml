@@ -1,0 +1,27 @@
+<configuration>
+    <!-- Console Appender -->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- File Appender -->
+    <appender name="file" class="ch.qos.logback.core.FileAppender">
+        <file>D:/application.log</file> <!-- Specify the log file name and location -->
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    
+    <logger name="org.hibernate.SQL" level="DEBUG"> <!-- Change to the appropriate logger name and level -->
+        <appender-ref ref="console" /> <!-- You can add both console and file appenders if needed -->
+        <!-- <appender-ref ref="file" /> -->
+    </logger>
+
+    <!-- Root Logger -->
+    <root level="INFO">
+        <appender-ref ref="console" />
+        <appender-ref ref="file" /> <!-- Add the file appender to the root logger -->
+    </root>
+</configuration>
