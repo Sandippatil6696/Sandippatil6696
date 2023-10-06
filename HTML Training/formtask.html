@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin: 15px 30px;
+      font-size: 15px;
+      padding: 8px;
+      
+    }
+
+    .container {
+      background-color: #f2f2f2;
+      padding: 20px 20px 20px 20px;
+      border: 1px solid lightgray;
+      border-radius: 4px;
+      width: 500px;
+      margin: auto;
+    }
+    div.inline {
+      float: left;
+      width: 50%;
+    }
+
+    input[type="text"] {
+      padding: 5px;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+    }
+
+    input[type="email"] {
+      width: 100%;
+      padding: 5px;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+    }
+
+    .w {
+      width: 100%;
+      padding: 5px;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+    }
+
+    input[type="submit"] {
+      background-color: #4caf84;
+      color: #ffff;
+      border: none;
+      width: 100%;
+      height: 40px;
+    }
+    input[type="submit"]:hover {
+      background-color: lightcoral;
+      color: black;
+    }
+    fieldset {
+      background-color: #ffff;
+      border: 2px solid #ccc;
+      margin: auto;
+    }
+    .mainheading {
+      text-align: center;
+      color: rgba(232, 29, 100, 0.867);
+    }
+  </style>
+  <body>
+    <div class="container">
+      <form action="">
+        <h1 class="mainheading">REGISTRATION FORM</h1>
+
+        <div class="inline">First Name</div>
+
+        <div class="inline">Last Name</div>
+        <div>
+          <div class="inline">
+            <input type="text" placeholder="First Name" required />
+          </div>
+          <div class="inline">
+            <input type="text" placeholder="Last Name" required />
+          </div>
+        </div>
+
+        <br />
+        <p>
+          <br />
+          Email Address
+          <input type="email" placeholder="Enter Email" required />
+        </p>
+        <label for="Gender">Gender</label> <br>
+        <fieldset>
+         
+          
+            Male<input type="radio" name="gender" id="" required /> female
+            <input type="radio" name="gender" id="" required />
+          
+        </fieldset>
+        <p>
+          City <br />
+          <input type="text" required class="w" />
+        </p>
+        <p>
+          Country <br>
+          <input type="text" required class="w">
+        </p>
+        <input type="submit" value="Register Now" />
+
+        <h2 style="text-align: center;">Delete By Id</h2>
+
+      </form>
+    </div>
+  </body>
+</html>

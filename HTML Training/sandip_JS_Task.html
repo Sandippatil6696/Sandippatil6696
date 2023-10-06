@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+    <script src="https://kit.fontawesome.com/7977dec605.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css"
+        integrity="sha384-z4tVnCr80ZcL0iufVdGQSUzNvJsKjEtqYZjiQrrYKlpGow+btDHDfQWkFjoaz/Zr" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+        integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+    <title>Sandip Task</title>
+    <style>
+        .m {
+            margin: 10px;
+            padding: 10px;
+            background-color: rgba(220, 225, 225, 0.538);
+        }
+
+        .background {
+            background-color: white;
+        }
+
+        .cardbackcolor {
+            background-color: rgba(249, 251, 251, 0.34);
+        }
+
+        .cen {
+            text-align: center;
+        }
+
+
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        a:hover {
+            color: rgb(108, 108, 167);
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .border {
+            border-radius: 15px;
+            background-color: rgb(9, 9, 9);
+        }
+
+        .btnr {
+            border-radius: 10px;
+            border: 2px solid white;
+            color: rgb(91, 91, 235);
+            width: 200px;
+            background-color: white;
+        }
+
+        .btnr1 {
+            border-radius: 10px;
+            border: 2px solid white;
+            color: rgb(91, 91, 235);
+            width: 100px;
+            background-color: white;
+        }
+
+
+        .mar {
+            margin: 20px;
+            padding: 20px;
+            background-color: rgba(244, 244, 244, 0.715);
+        }
+
+        .mar1 {
+            margin: 20px;
+            padding: 10px;
+        }
+
+        .inputwidth {
+            width: 100%;
+            background-color: white;
+            border-radius: 15px;
+            border: 2px solid rgb(191, 151, 232);
+
+        }
+
+        input[type="search"]::placeholder {
+            text-align: center;
+        }
+
+        .font {
+            font-size: 50px;
+        }
+
+        .circle {
+            border-radius: 50%;
+            width: 34px;
+            height: 34px;
+            padding: 10px;
+            background: rgb(237, 187, 94);
+            border: 1px;
+            color: #000;
+            text-align: center;
+            font: 32px Arial, sans-serif;
+        }
+        .circle1 {
+            border-radius: 50%;
+            width: 34px;
+            height: 34px;
+            padding:2px;
+            background: rgb(243, 242, 240);
+            color: #000;
+            text-align: center;
+            font: 28px Arial, sans-serif;
+        }
+
+        .borderradius {
+            border-radius: 15px;
+        }
+
+        .bit {
+            background-color: rgb(246, 246, 180);
+        }
+
+        .Ethe {
+            background-color: pink;
+        }
+
+        .lit {
+            background-color: rgb(200, 236, 200);
+        }
+
+        .color {
+            color: rgb(74, 74, 228);
+        }
+
+        i:hover {
+            color: rgb(165, 73, 205);
+        }
+
+        .liststyle {
+            list-style: none;
+        }
+
+        .avatar {
+            vertical-align: middle;
+            width: 50px;
+            height: 50px;
+            border-radius: 20%;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        .center1 {
+            text-align: center;
+        }
+
+        .back {
+            background-color: white;
+            padding: 1px;
+            margin: 1px;
+            border: 2px solid white;
+            border-radius: 10px;
+        }
+
+        .back1 {
+            background-color: rgb(166, 186, 245);
+            padding: 5px;
+            margin: 1px;
+            border: 2px solid white;
+            border-radius: 10px;
+        }
+
+        .padding {
+            padding-right: 10px;
+        }
+
+        .color1 {
+            color: aqua;
+
+        }
+        .color2 {
+            color: white;
+
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="m">
+        <div class="background">
+            <div class="row">
+                <div class="col">
+                    <div class="card-body">
+                        <div class="mar">
+                            <div class="d-flex justify-content-center">
+                                <img class="img1" src="https://c7.alamy.com/comp/2GKRWCR/bitcoin-crown-ki…-bitcoin-coin-cartoon-crypto-currency-2GKRWCR.jpg"
+                                    alt="" width="60" height="50">
+                                <h5 class=" center p-3 mb-5"><b>GND CRYP</b></h5>
+                            </div>
+                            <div class="row">
+                                <table class="table-borderless table cen">
+                                    <tr>
+                                        <td><a href="" target="_blank"><i class="fa-solid fa-gauge fa-2x"></i></a></td>
+                                        <td><a href="" target="_blank"><i class="fa-solid fa-calculator fa-2x"></i></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Dashboard</p>
+                                        </td>
+                                        <td>
+                                            <p>Calculator</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="" target="_blank"><i class="fa-solid fa-wallet fa-2x"></i></a></td>
+                                        <td><a href="" target="_blank"><i class="fas fa-save fa-2x"></i></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Wallets</p>
+                                        </td>
+                                        <td>
+                                            <p>Savings</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="" target="_blank"><i class="fas fa-money-bill fa-2x"></i></a></td>
+                                        <td><a href="" target="_blank"><i class="fa-solid fa-basket-shopping fa-2x"></i></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Curriences</p>
+                                        </td>
+                                        <td>
+                                            <p>Expenses</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <table class="table-borderless table cen mt-5">
+                                    <tr>
+                                        <td><a href="" target="_blank"><i class="fa-solid fa-square-h  fa-2x"></i></a>
+                                        </td>
+                                        <td><a href="" target="_blank"><i class="fa fa-user fa-2x"
+                                                    aria-hidden="true"></i></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Health</p>
+                                        </td>
+                                        <td>
+                                            <p>Account</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="" target="_blank"><i class="fas fa-fire fa-2x"></i></a></td>
+                                        <td><a href="" target="_blank"><i class="fa-solid fa-lock fa-2x"></i></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Upcoming</p>
+                                        </td>
+                                        <td>
+                                            <p>Food</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="card border">
+                                <table class="table-borderless table cen mt-3">
+                                    <tr>
+                                        <td>
+                                            <img src="https://www.shutterstock.com/image-photo/burning-fire-golden-bitcoin-isolated-260nw-763764859.jpg"
+                                                alt="" width="200" height="165">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button type="button" class="btn  btnr"> <b> Get Pro Now</b></button>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col mt-5">
+                    <div class="mar1 ">
+                        <input class="form-control me-5 inputwidth" type="search" placeholder="Search">
+                        <h6 class="mt-5 font">Hi,Mikey <sup class="circle">23</sup></h6>
+                    </div>
+                    <div class="row mt-5">
+                        <div class="col borderradius">
+                            <div class="card bit p-2">
+                                <h6>Bitcoin</h6>
+                                <p></p>
+                                <i class="fa-brands fa-btc fa-5x cen color2"></i>
+                                <p></p>
+                                <h6 class="color">0.254644621 BTC</h4>
+                                    <p></p>
+                                    <h6 class="color">11,235.00 USD</h6>
+                            </div>
+                        </div>
+                        <div class="col borderradius">
+                            <div class="card Ethe p-2">
+                                <h6>Etherium</h6>
+                                <p></p>
+                                <i class="fa-brands fa-ethereum fa-5x cen color2"></i>
+                                <p></p>
+                                <h6 class="color">0.254644621 BTC</h4>
+                                    <p></p>
+                                    <h6 class="color">11,235.00 USD</h6>
+                            </div>
+
+                        </div>
+                        <div class="col borderradius">
+                            <div class="card lit p-2">
+                                <h6>Litecoin</h6>
+                                <p></p>
+                                <i class="fa-solid fa-litecoin-sign fa-5x color2"></i>
+                                <p></p>
+                                <h6 class="color">0.254644621 BTC</h4>
+                                    <p></p>
+                                    <h6 class="color">11,235.00 USD</h6>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="mt-5 cen">
+                        <ul style="list-style:none; display: inline;">
+                            <input type="radio" name="ra" id="">
+                            <input type="radio" name="ra" id="">
+                            <input type="radio" name="ra" id="">
+                        </ul>
+                    </div>
+                    
+                    <div class="mt-4">
+                        <h6 class="cen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-angle-down"></i></h6>
+                    </div>
+
+                    <div class="navbar mt-5">
+                        <h1>Latest Activity</h1>
+                        <div class="navbar">
+                            <i class="fa fa-cog fa-2x nav-item" aria-hidden="true"> &nbsp;</i>
+                            <i class="fa fa-plus fa-2x nav-item" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                    <div class="">
+                        <table class="table-borderless table text-muted mb-3">
+                            <tr>
+                                <td>Update 12 mins ago</td>
+                                <td><a href="">Edit</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div>
+                        <table class="liststyle">
+                            <tr>
+                                <td>
+                                    <i class="fas fa-shield-alt fa-2x"></i>
+                                </td>
+                                <td>
+                                    <li><b>Insurance</b> </li>
+                                    <li class="text-muted">Property Coverage</li>
+                                </td>
+                                <td>
+                                    <li> <b>LTC Wallet </b> </li>
+                                    <li class="text-muted">Personal Account</li>
+                                </td>
+                                <td>
+                                    <li> <b>7 Jun 21</b> </li>
+                                    <li class="text-muted">Last Payment</li>
+                                </td>
+                                <td>
+                                    <li><b>-10.24 LTC</b> </li>
+                                    <li class="text-muted">Balance</li>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <i class="fa-solid fa-bolt fa-2x"></i>
+                                </td>
+                                <td>
+                                    <li><b>Electricity</b> </li>
+                                    <li class="text-muted">Utility Payment</li>
+                                </td>
+                                <td>
+                                    <li> <b>ETH Wallet </b> </li>
+                                    <li class="text-muted">Personal Account</li>
+                                </td>
+                                <td>
+                                    <li> <b>9 Jun 21</b> </li>
+                                    <li class="text-muted">Last Payment</li>
+                                </td>
+                                <td>
+                                    <li><b>-55.24 ETH</b> </li>
+                                    <li class="text-muted">Balance</li>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                </div>
+
+                <div class="col">
+                    <div class="card-body">
+                        <div class="background mar">
+                            <div>
+                                <table class="table-borderless table">
+                                    <tr class="text-muted">
+                                        <td>Quit</td>
+                                        <td>Personal</td>
+                                        <td class="right"><img class="avatar"
+                                                src="https://avatars.githubusercontent.com/u/529604?v=4" alt="img">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>&nbsp;</td>
+                                    </tr>
+                                    <tr class="">
+                                        <td colspan="2">
+                                            <h1>Payments</h1>
+                                        </td>
+                                        <td> <button type="button" class="btnr1 btn"> <b>Clear</b></button></td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="back">
+                                <table class="table table-borderless">
+                                    <tr>
+                                        <td><i class="fa-solid fa-litecoin-sign"></i></td>
+                                        <td>
+                                            <h6>Received LTC</h6>
+                                        </td>
+                                        <td><i class="fas fa-angle-down text-muted"></i></td>
+                                        <td>
+                                            <h6 class="">+15.05 USD</h6>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3">
+                                            <h6>20/11/2022 17:22 </h6>
+                                        </td>
+                                        <td><i class="fa-solid fa-circle-user"></i><i class="fa-solid fa-circle-user"></i><i class="fa-solid fa-circle-user"></i></td>
+                                    </tr>
+
+                                </table>
+                            </div>
+                            <div class="back mt-4">
+                                <table class="table table-borderless">
+                                    <tr>
+                                        <td><i class="fas fa-link"></i></td>
+                                        <td>
+                                            <h6>Received Link</h6>
+                                        </td>
+                                        <td><i class="fas fa-angle-down text-muted"></i></td>
+                                        <td>
+                                            <h6 class="">+15.05 USD</h6>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3">
+                                            <h6>20/11/2022 17:22 </h6>
+                                        </td>
+                                        <td><i class="fa-solid fa-circle-user"></i><i class="fa-solid fa-circle-user"></i><i class="fa-solid fa-circle-user"></i></td>
+                                    </tr>
+
+                                </table>
+                            </div>
+                            <div class="back1 mt-5">
+                                <table class="table table-borderless">
+                                    <tr>
+                                        <td><i class="fa-solid fa-pen"></i></td>
+                                        <td>&nbsp;</td>
+                                        <td>
+                                            <h6 style="color:rgb(109, 129, 241);">+ New Transfer</h6>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="mt-5">
+                                <h1 class="mb-5">Wallests</h1>
+                                <div>
+                                    <table class="liststyle mt-3">
+                                        <tr>
+                                            <td class="padding">
+                                                <i class="fa-brands fa-btc fa-2x"></i>
+                                            </td>
+                                            <td class="table">
+                                                <li><b>BTE</b> </li>
+                                                <li class="text-muted">Bitcoin</li>
+                                            </td>
+                                            <td class="table">
+                                                <li> <b>37% </b> </li>
+                                                <li class="color1">-0.5%</li>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="padding">
+                                                <i class='fas fa-dollar-sign fa-2x'></i>
+                                            </td>
+                                            <td class="table">
+                                                <li><b>DAI</b> </li>
+                                                <li class="text-muted">Dai</li>
+                                            </td>
+                                            <td class="table">
+                                                <li> <b>14% </b> </li>
+                                                <li class="text-muted">+0.5%</li>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="padding">
+                                                <i class='fab fa-ethereum fa-2x'></i>
+                                            </td>
+                                            <td class="table">
+                                                <li><b>XRP</b> </li>
+                                                <li class="text-muted">Ripple</li>
+                                            </td>
+                                            <td class="table">
+                                                <li> <b>20% </b> </li>
+                                                <li class="color1">-1.5%</li>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="padding">
+                                                <i class="fa-solid fa-litecoin-sign fa-2x"></i>
+                                            </td>
+                                            <td class="table">
+                                                <li><b>USDT</b> </li>
+                                                <li class="text-muted">Tether</li>
+                                            </td>
+                                            <td class="table">
+                                                <li> <b>17% </b> </li>
+                                                <li class="text-muted">+2.5%</li>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+
+</html>
