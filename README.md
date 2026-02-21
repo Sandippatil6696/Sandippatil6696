@@ -26,6 +26,29 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </p>&nbsp;&nbsp;&nbsp;
 
+*Connect with me @*
+
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Twitter (X) -->
+  <a href="https://twitter.com/YOUR-TWITTER-ID" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="35" alt="Twitter"/>
+  </a>
+
+</p>
+
 <!--
 **Sandippatil6696/Sandippatil6696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
