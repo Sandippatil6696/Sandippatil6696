@@ -9,7 +9,7 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 
 ---
 
-** *Tools I have learns or upgrading my skills* **
+*Tools I have learns or upgrading my skills*
 
 - Linux , Shell Scripting, Networking, Git, Github, Docker, CI-CD, K8S, Terraform, Ansible, Prometheus, Grafana, Python for devops
 
