@@ -26,25 +26,27 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </p>&nbsp;&nbsp;&nbsp;
 
+---
+
 *Connect with me @*
 
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/sandip-patil-5a954024b" target="_blank">Linkdin
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn"/>
+  <a href="www.linkedin.com/in/sandip-patil-5a954024b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn"/>Linkdin
   </a>
   <br/><br/>
 
   <!-- Email -->
-  <a href="96sandypatil@gmail.com">Email
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="20" alt="Email"/>
+  <a href="96sandypatil@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="20" alt="Email"/>Email
   </a>
   <br/><br/>
 
   <!-- Twitter -->
-  <a href="https://x.com/SandipP68515996" target="_blank">X
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="20" alt="Twitter"/>
+  <a href="https://x.com/SandipP68515996" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="20" alt="Twitter"/>X
   </a>
 
 </p>
