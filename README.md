@@ -5,11 +5,11 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 
 ---
 
-*I am currently working on **90DaysofDevops** challange by Trainwithshubham*
+## *I am currently working on **90DaysofDevops** challange by Trainwithshubham*
 
 ---
 
-*Tools I have learns or upgrading my skills*
+## *Tools I have learns or upgrading my skills*
 
 - Linux , Shell Scripting, Networking, Git, Github, Docker, CI-CD, K8S, Terraform, Ansible, Prometheus, Grafana, Python for devops
 
@@ -28,24 +28,23 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 
 ---
 
-*Connect with me @*
-
-
 ## 🌐 Connect With Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandip-patil-5a954024b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="mailto:96sandypatil@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png"  height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://x.com/SandipP68515996" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png"  height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
 </p>
+
+
 
 <!--
 **Sandippatil6696/Sandippatil6696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
