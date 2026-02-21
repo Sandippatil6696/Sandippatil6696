@@ -11,34 +11,19 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 
 ** *Tools I have learns or upgrading my skills* **
 
-- Linux ,Shell Scripting, Networking,Git,Github,Docker,CI-CD,K8S,Terraform,Ansible,Prometheus,Grafana,Python for devops
+- Linux , Shell Scripting, Networking, Git, Github, Docker, CI-CD, K8S, Terraform, Ansible, Prometheus, Grafana, Python for devops
 
 <p align="left">
-
-  <!-- Logos Row -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" width="60"/>
-
-  <br/>
-
-  <!-- Names Row -->
-  <span style="display:inline-block; width:60px; text-align:center;">Linux</span>
-  <span style="display:inline-block; width:60px; text-align:center;">Git</span>
-  <span style="display:inline-block; width:60px; text-align:center;">GitHub</span>
-  <span style="display:inline-block; width:60px; text-align:center;">Docker</span>
-  <span style="display:inline-block; width:60px; text-align:center;">Kubernetes</span>
-  <span style="display:inline-block; width:60px; text-align:center;">Terraform</span>
-  <span style="display:inline-block; width:60px; text-align:center;">Ansible</span>
-  <span style="display:inline-block; width:60px; text-align:center;">Prometheus</span>
-  <span style="display:inline-block; width:60px; text-align:center;">Grafana</span>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/> Linux &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"/> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> GitHub &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> Kubernetes &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20"/> Terraform &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20"/> Ansible &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="20"/> Prometheus &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="20"/> Grafana &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python
 </p>
 
 
