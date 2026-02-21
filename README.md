@@ -30,6 +30,7 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 
 ## 🌐 Connect With Me  
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sandip-patil-5a954024b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="25"/>
@@ -45,6 +46,7 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 </p>
 
 
+---
 
 <!--
 **Sandippatil6696/Sandippatil6696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
