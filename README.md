@@ -35,16 +35,16 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandip-patil-5a954024b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
   
   <a href="mailto:96sandypatil@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://x.com/SandipP68515996" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
