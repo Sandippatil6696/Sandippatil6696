@@ -40,7 +40,7 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png"  height="25"/>
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://x.com/SandipP68515996" target="">
+  <a href="https://x.com/SandipP68515996" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png"  height="25"/>
   </a>&nbsp;&nbsp;&nbsp;
 </p>
