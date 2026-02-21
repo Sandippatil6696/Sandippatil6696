@@ -1,5 +1,8 @@
 ## Hi ,I am Sandip Patil 👋
 
+*I’m a passionate DevOps and Cloud enthusiast from Mumbai, India.
+Currently learning and practicing Git, GitHub, Linux, Docker, CI/CD, K8s and automation*
+
 <!--
 **Sandippatil6696/Sandippatil6696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
