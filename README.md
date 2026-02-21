@@ -9,21 +9,20 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 
 ---
 
-*Tools I have learns or upgrading my skills*
+** *Tools I have learns or upgrading my skills* **
 
+- Linux ,Shell Scripting, Networking,Git,Github,Docker,CI-CD,K8S,Terraform,Ansible,Prometheus,Grafana,Python for devops
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" style="vertical-align:middle;"/> Linux &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" style="vertical-align:middle;"/> Git &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" style="vertical-align:middle;"/> GitHub &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" style="vertical-align:middle;"/> Docker &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20" style="vertical-align:middle;"/> Kubernetes &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" style="vertical-align:middle;"/> Terraform &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20" style="vertical-align:middle;"/> Ansible &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="20" style="vertical-align:middle;"/> Prometheus &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="20" style="vertical-align:middle;"/> Grafana &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" style="vertical-align:middle;"/> Shell &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" style="vertical-align:middle;"/> Python for devops
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/><br/>Linux<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/><br/>Git<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/><br/>GitHub<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/><br/>Docker<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/><br/>Kubernetes<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45"/><br/>Terraform<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45"/><br/>Ansible<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45"/><br/>Prometheus<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45"/><br/>Grafana
 </p>
 
 
