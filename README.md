@@ -25,9 +25,7 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" style="margin-right:35px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </p>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
+
 ---
 
 ## 🌐 Connect With Me  
