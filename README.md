@@ -31,19 +31,19 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/sandip-patil-5a954024b" target="_blank">
+  <a href="www.linkedin.com/in/sandip-patil-5a954024b" target="_blank">Linkdin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn"/>
   </a>
   <br/><br/>
 
   <!-- Email -->
-  <a href="96sandypatil@gmail.com">
+  <a href="96sandypatil@gmail.com">Email
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="20" alt="Email"/>
   </a>
   <br/><br/>
 
   <!-- Twitter -->
-  <a href="https://x.com/SandipP68515996" target="_blank">
+  <a href="https://x.com/SandipP68515996" target="_blank">X
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="20" alt="Twitter"/>
   </a>
 
