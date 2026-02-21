@@ -14,15 +14,31 @@ Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S ,
 - Linux ,Shell Scripting, Networking,Git,Github,Docker,CI-CD,K8S,Terraform,Ansible,Prometheus,Grafana,Python for devops
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/><br/>Linux<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/><br/>Git<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/><br/>GitHub<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/><br/>Docker<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/><br/>Kubernetes<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45"/><br/>Terraform<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45"/><br/>Ansible<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45"/><br/>Prometheus<br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45"/><br/>Grafana
+
+  <!-- Logos Row -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" width="60"/>
+
+  <br/>
+
+  <!-- Names Row -->
+  <span style="display:inline-block; width:60px; text-align:center;">Linux</span>
+  <span style="display:inline-block; width:60px; text-align:center;">Git</span>
+  <span style="display:inline-block; width:60px; text-align:center;">GitHub</span>
+  <span style="display:inline-block; width:60px; text-align:center;">Docker</span>
+  <span style="display:inline-block; width:60px; text-align:center;">Kubernetes</span>
+  <span style="display:inline-block; width:60px; text-align:center;">Terraform</span>
+  <span style="display:inline-block; width:60px; text-align:center;">Ansible</span>
+  <span style="display:inline-block; width:60px; text-align:center;">Prometheus</span>
+  <span style="display:inline-block; width:60px; text-align:center;">Grafana</span>
+
 </p>
 
 
