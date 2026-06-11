@@ -1,7 +1,8 @@
 ## Hi ,I am Sandip Patil 👋
 
-*I’m a passionate DevOps and Cloud enthusiast from Mumbai, India.
-Currently learning and practicing Git, GitHub, Linux, Docker, AWS , CI/CD, K8S , Observibility and automation*
+*3+ years of professional IT experience in the banking domain, relevant to DevOps, container orchestration, and monitoring & observability
+practices. Supporting application and production systems, and automating applications resulting in high availability with zero downtime, making
+the client experience seamless.*
 
 ---
 
